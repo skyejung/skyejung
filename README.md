@@ -6,8 +6,9 @@ You can send me an email at [skyesoljung@gmail.com](skyesoljung@gmail.com) or co
 
 ### Connect with me:
 <p align="left">
-<a href="www.linkedin.com/in/skye-jung" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/skye-jung-ab86831a2/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 
 <!--
 **skyejung/skyejung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
