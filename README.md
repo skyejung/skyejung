@@ -2,7 +2,7 @@
 
 I am a Master of Science in Data Science student at the [University of Virginia's School of Data Science](https://datascience.virginia.edu/). I completed my undergraduate studies at UVA in Statistics and Studio Art. Following my graduation, I will be joining [IBM](https://www.ibm.com/us-en?utm_content=SRCWW&p1=Search&p4=43700050478421002&p5=e&gad_source=1&gclid=Cj0KCQjwir2xBhC_ARIsAMTXk85vg9fu97smE_VVwoUqDA5uJLMBOpe2eTZVUHpo2jNcHiQVXc6VGyAaAom2EALw_wcB&gclsrc=aw.ds) as an Associate Data Scientist.
 
-You can send me an email at [skyesoljung@gmail.com](skyesoljung@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/skye-jung) if you want to reach out :)
+You can send me an email at [skyesoljung@gmail.com](skyesoljung@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/skye-jung-ab86831a2/)) if you want to reach out :)
 
 ### Connect with me:
 <p align="left">
